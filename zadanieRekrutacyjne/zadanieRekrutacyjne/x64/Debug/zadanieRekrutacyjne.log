@@ -1,0 +1,6 @@
+﻿  zadanieRekrutacyjne.cpp
+C:\Users\Majkel\source\repos\zadanieRekrutacyjne\zadanieRekrutacyjne\zadanieRekrutacyjne.cpp(36,36): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Majkel\source\repos\zadanieRekrutacyjne\zadanieRekrutacyjne\zadanieRekrutacyjne.cpp(49,36): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Majkel\source\repos\zadanieRekrutacyjne\zadanieRekrutacyjne\zadanieRekrutacyjne.cpp(61,36): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Majkel\source\repos\zadanieRekrutacyjne\zadanieRekrutacyjne\zadanieRekrutacyjne.cpp(73,36): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  zadanieRekrutacyjne.vcxproj -> C:\Users\Majkel\source\repos\zadanieRekrutacyjne\x64\Debug\zadanieRekrutacyjne.exe
